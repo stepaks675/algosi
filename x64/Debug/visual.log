@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\stepaks\source\repos\visual\main.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\stepaks\source\repos\visual\main.cpp(29,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\stepaks\source\repos\visual\main.cpp(30,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\stepaks\source\repos\visual\main.cpp(30,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  visual.vcxproj -> C:\Users\stepaks\source\repos\visual\x64\Debug\visual.exe
